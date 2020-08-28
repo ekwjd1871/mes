@@ -13,7 +13,7 @@ namespace MES
     public partial class MainForm : Form
     {
         OrderInfoForm orderInfoForm;
-
+        // 창기가 달아놓은 주석.
         public MainForm()
         {
             InitializeComponent();
